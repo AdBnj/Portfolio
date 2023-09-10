@@ -19,7 +19,7 @@ _(As you develop projects during your course or personally, you can add them her
 
 ### **Project 1: Password Generator & Checker**
 
-- **Repository**: [Link to the project repository]
+- **Repository**: [Password Generator & Checker](https://github.com/AdBnj/PasswordGen)
 - **Description**: This project encompasses a utility tool that assists users in generating strong, secure passwords and evaluating the strength of existing passwords. The application features a user-friendly interface developed with the Tkinter library, offering functionalities such as generating passwords with a blend of uppercase and lowercase letters, numbers, and special characters, and a scoring system that rates the robustness of user-input passwords. The scoring system is based on various criteria, including length, the inclusion of different character types, and more, guiding users to create passwords that are resilient against potential cyber-attacks.
 - **Technologies Used**: Python, Tkinter Library
 
