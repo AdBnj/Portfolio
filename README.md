@@ -23,6 +23,13 @@ _(As you develop projects during your course or personally, you can add them her
 - **Description**: This project encompasses a utility tool that assists users in generating strong, secure passwords and evaluating the strength of existing passwords. The application features a user-friendly interface developed with the Tkinter library, offering functionalities such as generating passwords with a blend of uppercase and lowercase letters, numbers, and special characters, and a scoring system that rates the robustness of user-input passwords. The scoring system is based on various criteria, including length, the inclusion of different character types, and more, guiding users to create passwords that are resilient against potential cyber-attacks.
 - **Technologies Used**: Python, Tkinter Library
 
+### **Project 2: Quarterly Sales Data Analysis Application Leveraging Multi-Dimensional Arrays**
+
+- **Repository**: [Quarterly Sales Data Analysis Application](https://github.com/AdBnj/PasswordGen)
+- **Description**: In the dynamic landscape of retail management, the utilization of data analytics for sales tracking and reporting is indispensable. This report presents a Java-based application designed for a hypothetical department store. The application's primary function is to process and analyze sales data, offering valuable insights into sales trends and performance metrics. The report outlines the development of three key algorithms, implemented in Java, that enable the analysis of quarterly sales data across various departments. These algorithms focus on calculating total sales, determining sales with added tax, and identifying the most effective sales month for each department. The development process, from pseudocode to Java implementation, demonstrates the application of fundamental concepts in data structures and algorithms, tailored to address real-world business scenarios in the retail sector.
+- **Technologies Used**: Java, Scanner class, 3D arrays
+
+
 
 ## 💼 **Work Experience**
 - **McColl's Retail Group Ltd**, Sheffield, UK (May 2020 - March 2021)
