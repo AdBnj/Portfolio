@@ -25,7 +25,7 @@ _(As you develop projects during your course or personally, you can add them her
 
 ### **Project 2: Quarterly Sales Data Analysis Application Leveraging Multi-Dimensional Arrays**
 
-- **Repository**: [Quarterly Sales Data Analysis Application](https://github.com/AdBnj/PasswordGen)
+- **Repository**: [Quarterly Sales Data Analysis Application](https://github.com/AdBnj/QuarterlyReport/tree/main)
 - **Description**: In the dynamic landscape of retail management, the utilization of data analytics for sales tracking and reporting is indispensable. This report presents a Java-based application designed for a hypothetical department store. The application's primary function is to process and analyze sales data, offering valuable insights into sales trends and performance metrics. The report outlines the development of three key algorithms, implemented in Java, that enable the analysis of quarterly sales data across various departments. These algorithms focus on calculating total sales, determining sales with added tax, and identifying the most effective sales month for each department. The development process, from pseudocode to Java implementation, demonstrates the application of fundamental concepts in data structures and algorithms, tailored to address real-world business scenarios in the retail sector.
 - **Technologies Used**: Java, Scanner class, 3D arrays
 
